@@ -2,7 +2,7 @@
 
 I enjoy working on
 
-+ ☀️  resilient systems for off-grid, no-cloud computering fun
++ ☀️  open source automation and security
 + 🧠 ai training and inference from robots to customer service
 + 🤖 teleop systems for controlling many robots at once
 
