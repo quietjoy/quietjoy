@@ -1,8 +1,15 @@
-# Hi, I'm Andrew 👋
+# Hi👋
 
-I'm a developer building resilient systems for the post-cloud world.
+I enjoy working on
 
-- 🔧 I work with Python, Django, WebRTC, and low-level networking
-- 🌍 Based between South America, Miami, and Portugal
++ ☀️  resilient systems for off-grid, no-cloud computering fun
++ 🧠 ai training and inference from robots to customer service
++ 🤖 teleop systems for controlling many robots at once
 
-🌐 [My Website](https://quietjoy.net)
+Currently spending most of my professional time on the last one
+
+🔧 I work with Python, Django, WebRTC, and low-level networking
+
+I'm always interested in collaborating with others in the same areas.
+
+🌐 [Website](https://quietjoy.net)
